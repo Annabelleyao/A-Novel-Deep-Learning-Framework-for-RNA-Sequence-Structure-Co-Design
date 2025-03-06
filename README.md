@@ -1,4 +1,4 @@
-# A-Novel-Deep-Learning-Framework-for-RNA-Sequence-Structure-Co-Design
+<h1><b>RNA Structural Geometry with GVP and Transformers: A Novel Deep Framework for Sequence-Structure Co-Design </b></h1>
 
 RNA’s diverse biological functions stem from its structural versatility, yet accu-
 rately predicting and designing RNA sequences for a given 3D conformation (inverse
